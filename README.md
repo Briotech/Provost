@@ -15,8 +15,9 @@ Features:
 
 * Cloud File Storage and Document Management
 
-* Unlimited Users, Clients, and Cases
+* Unlimited Users
 
+* Advanced Reporting
 
 ## © 2018 Aamir Sayid
 ### aamir.sayid@gmail.com
