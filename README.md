@@ -5,18 +5,19 @@ Free and open source management system to manage colleges and schools.
 
 Features:
 
-* Cloud-based
+* Cloud-Based
 
-* Web-based
-
-* Android and iPhone Apps Available
-
-* Scalable
-
-* Unlimited Users
+* Scalable and Robust
 
 * SMS and Email Notifications
 
+* Android and iPhone Apps Available
 
-### © 2018 Aamir Sayid
-#### aamir.sayid@gmail.com
+* Cloud File Storage and Document Management
+
+* Unlimited Users, Clients, and Cases
+
+
+## © 2018 Aamir Sayid
+### aamir.sayid@gmail.com
+#### www.aamirsayid.com
